@@ -31,3 +31,7 @@ the format name is 'NEW' throughout.
 
 Using the `-output` or `-o` option sets the destination for the new format.
 If this is not specified the result will be written to standard output.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/estarter/lnav-formats/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
